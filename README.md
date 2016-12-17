@@ -7,8 +7,8 @@
 
 # vue学习笔记
 
-1. [vue-cli生成种子项目](aa)
+1. [vue-cli生成种子项目](#aa)
 2. 路由的使用
 3. 常见问题
 
-## [vue-cli生成种子项目][#aa]
+## <span id='aa'>vue-cli生成种子项目</span>
