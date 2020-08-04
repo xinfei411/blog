@@ -7,3 +7,4 @@
 
 ## 工作实践
 1. [防抖函数](https://github.com/xinfei411/blog/issues/9)
+2. [nuxt项目优化]
